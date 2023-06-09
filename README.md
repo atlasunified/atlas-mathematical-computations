@@ -2,11 +2,11 @@
 
 ## Disciplines
 
-1.  	Addition -  `Added`
+1.  	Addition -  Added
 
-2.  	Subtraction - `added`
+2.  	Subtraction - added
 
-3.  	Multiplication -  `Added`
+3.  	Multiplication -  Added
 
 4.  	Division
 
