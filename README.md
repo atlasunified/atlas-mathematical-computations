@@ -1,9 +1,9 @@
 # atlas-mathematical-computations
 
 ## Disciplines
-1.	Addition
-2.	Subtraction
-3.	Multiplication
+1.	Addition - `Added`
+2.	Subtraction - `Added`
+3.	Multiplication - `Added`
 4.	Division
 5.	Decimals
 6.	Fractions
