@@ -13,8 +13,8 @@ def generate_1_number_addition_problems(n_problems):
 
     return problems, solutions
 
-for i in range(n_problems):
-    print(f"Problem {i+1}: {format(problems[i][0], ',')} + {format(problems[i][1], ',')} = {format(solutions[i], ',')}")
+n_problems = 100  # Set the number of problems here
+problems, solutions = generate_1_number_addition_problems(n_problems)
 
 for i in range(n_problems):
     print(f"Problem {i+1}: {problems[i][0]} + {problems[i][1]} = {solutions[i]}")
