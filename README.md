@@ -4,8 +4,8 @@
 1.	Addition - `Added`
 2.	Subtraction - `Added`
 3.	Multiplication - `Added`
-4.	Division
-5.	Decimals
+4.	Division - `Added`
+5.	Decimals - `Added`
 6.	Fractions
 7.	Prime numbers
 8.	Exponents
