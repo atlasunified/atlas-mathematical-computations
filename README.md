@@ -75,7 +75,7 @@
 72.	Limits
 73.	Continuity
 74.	Derivatives
-75.	Derivative applications
+75.	Linear System Equations - `In Work`
 76.	Integrals
 77.	Fundamental Theorem of Calculus
 78.	Techniques of integration
