@@ -6,8 +6,8 @@
 3.	Multiplication - `Added`
 4.	Division - `Added`
 5.	Decimals - `Added`
-6.	Fractions
-7.	Prime numbers
+6.	Fractions - `Added`
+7.	Prime numbers - `NOT ADDED`
 8.	Exponents
 9.	Square roots
 10.	Cube roots
