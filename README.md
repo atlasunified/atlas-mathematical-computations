@@ -8,10 +8,10 @@
 5.	Decimals - `Added`
 6.	Fractions - `Added`
 7.	Prime numbers - `NOT ADDED`
-8.	Exponents
-9.	Square roots
-10.	Cube roots
-11.	Order of Operations (BODMAS/PEMDAS)
+8.	Exponents - `Added`
+9.	Square roots - `Added`
+10.	Cube roots - `Added`
+11.	Order of Operations (BODMAS/PEMDAS) - `NOT ADDED`
 12.	Factors
 13.	Multiples
 14.	Least Common Multiple (LCM)
