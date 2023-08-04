@@ -12,10 +12,10 @@
 9.	Square roots - `Added`
 10.	Cube roots - `Added`
 11.	Order of Operations (BODMAS/PEMDAS) - `NOT ADDED`
-12.	Factors
-13.	Multiples
-14.	Least Common Multiple (LCM)
-15.	Greatest Common Divisor (GCD)
+12.	Factors - `Added`
+13.	Multiples - `NOT ADDED`
+14.	Least Common Multiple (LCM) - `Added`
+15.	Greatest Common Divisor (GCD) - `Added`
 16.	Percents
 17.	Ratios
 18.	Proportions
